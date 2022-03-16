@@ -1,0 +1,35 @@
+*{
+    margin: 2%;
+    padding: 1000;
+    box-sizing: border-box;
+}
+.navegar {
+    font-size: 30px;
+    float: right;
+    padding: 30px 50px 0 0;
+    text-decoration: underline;
+    color: black;
+}
+body {
+    font-family: 'Cinzel', serif;
+    background-color: rgb(153, 184, 184);
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: left;
+}
+.categorias .perro img{
+    width: 400px;
+    margin: 15px 15px 16px 15px;
+    padding: 15px 15px 15px 15px;
+    border-radius: 100%;
+    border-style:ridge;
+}
+.enlaces a{
+    font-size: 30px;
+    text-align: center;
+    padding: 30px 50px 0 0;
+    text-decoration: none;
+}

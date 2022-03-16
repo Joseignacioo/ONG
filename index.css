@@ -1,0 +1,41 @@
+*{
+    margin: 2%;
+    padding: 1000;
+    box-sizing: border-box;
+}
+.navegar {
+    font-size: 30px;
+    text-align: center;
+    padding: 30px 50px 0 0;
+    text-decoration: none;
+    color: black;
+}
+body {
+    font-family: 'Cinzel', serif;
+    background-color: rgb(135, 197, 176);
+}
+h1 {
+    text-align: center;
+    background-color: rgb(231, 241, 241);
+    border-radius: 100%;
+}
+p {
+    text-align: left;
+    background-color: hsla(0, 0%, 96%, 0.342);
+}
+.categorias .gato img{
+    width: 400px;
+    margin: 15px 15px 16px 15px;
+    padding: 15px 15px 15px 15px;
+    border-radius: 100%;
+    border-style:ridge;
+    background-color: rgb(94, 155, 155);
+}
+.categorias .perro img{
+    width: 400px;
+    margin: 15px 15px 16px 15px;
+    padding: 15px 15px 15px 15px;
+    border-radius: 100%;
+    border-style:ridge;
+    background-color: rgb(94, 155, 155);
+}
